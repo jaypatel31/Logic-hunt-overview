@@ -21,8 +21,8 @@ Logic hunt is the online quiz platform in which I have worked as a backend devel
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 ## Screenshots
-![Screenshot (427)](https://user-images.githubusercontent.com/59785863/130323213-af746a32-6fc9-4986-80be-dc2b1448d02d.png)
-![Screenshot (428)](https://user-images.githubusercontent.com/59785863/130323216-4d098d50-761c-4649-8ab8-c427d2a0e669.png)
-![Screenshot (429)](https://user-images.githubusercontent.com/59785863/130323217-d4e49deb-958d-462f-a80c-f932ea5f763c.png)
-![Screenshot (430)](https://user-images.githubusercontent.com/59785863/130323219-d4d4702b-7bda-4668-8a78-94ae691dce4a.png)
-![Screenshot (431)](https://user-images.githubusercontent.com/59785863/130323220-7378bb11-8433-4936-9e55-d891a31489f7.png)
+![Screenshot (430) (1)](https://user-images.githubusercontent.com/59785863/130327962-09513c76-d911-45a9-973b-8c681e7882de.png)
+![Screenshot (429) (1)](https://user-images.githubusercontent.com/59785863/130327967-a6f0e5c1-baaf-42ad-812e-c8fae3ef84e2.png)
+![Screenshot (428) (1)](https://user-images.githubusercontent.com/59785863/130327973-3bcfe8a8-75e3-4071-aceb-3b653a6f0a9f.png)
+![Screenshot (427) (1)](https://user-images.githubusercontent.com/59785863/130327975-6000b84a-13a0-4c69-8e2f-ef4d5c90bf05.png)
+![Screenshot (431) (1)](https://user-images.githubusercontent.com/59785863/130327977-3608a805-81e6-45a9-a9b7-51a815a9cc10.png)
